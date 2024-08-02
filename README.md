@@ -23,6 +23,12 @@ This approach aims to optimize crop yields, enhance decision-making, and ultimat
 
 **User-Friendly Interface:** The system features a user-friendly interface that allows users to input their data, view recommendations, and access additional information easily.
 
+
+
+#  Dataset 
+[Click here for the dataset](https://www.kaggle.com/code/nirmalgaud/crop-recommendation-system-using-machine-learning)
+
+
 # Technologies and Tools Used
 
 **Python:** The primary programming language used for model development, data preprocessing, and web application development.
