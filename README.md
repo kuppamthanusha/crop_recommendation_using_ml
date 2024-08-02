@@ -55,6 +55,7 @@ This approach aims to optimize crop yields, enhance decision-making, and ultimat
 # Output
 
 # Home Page
+
 [image](https://github.com/user-attachments/assets/cac349f3-746d-4463-8e09-549d32cbdba2)
 
 # Prediction Page
