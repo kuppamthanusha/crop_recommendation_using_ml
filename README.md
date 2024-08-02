@@ -9,7 +9,7 @@ By leveraging historical data and predictive models, the system provides persona
 This approach aims to optimize crop yields, enhance decision-making, and ultimately maximize profitability for users.
 
 
-**Key Components of the Crop Recommendation System**
+#**Key Components of the Crop Recommendation System**
 
 **Input Data Collection:** Users input essential data such as soil parameters, climate information, and geographic location.
 
