@@ -54,10 +54,14 @@ This approach aims to optimize crop yields, enhance decision-making, and ultimat
 
 # Output
 
-![home]![image](https://github.com/user-attachments/assets/cac349f3-746d-4463-8e09-549d32cbdba2)
+# Home Page
+[image](https://github.com/user-attachments/assets/cac349f3-746d-4463-8e09-549d32cbdba2)
 
-![Prediction Page]![image](https://github.com/user-attachments/assets/efe48e81-7042-448d-9d8a-9f1c4ae11acc)
+# Prediction Page
+![image](https://github.com/user-attachments/assets/efe48e81-7042-448d-9d8a-9f1c4ae11acc)
 
+
+# Predicted Crop
 
 ![image](https://github.com/user-attachments/assets/abf69f27-4a35-47d0-be34-bb2136fc6d94)
 
