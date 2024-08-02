@@ -9,7 +9,7 @@ By leveraging historical data and predictive models, the system provides persona
 This approach aims to optimize crop yields, enhance decision-making, and ultimately maximize profitability for users.
 
 
-#**Key Components of the Crop Recommendation System**
+# Key Components of the Crop Recommendation System
 
 **Input Data Collection:** Users input essential data such as soil parameters, climate information, and geographic location.
 
@@ -22,6 +22,44 @@ This approach aims to optimize crop yields, enhance decision-making, and ultimat
 **Crop Recommendation:** Utilizing the trained models, the system recommends the most suitable crops based on the provided input parameters.
 
 **User-Friendly Interface:** The system features a user-friendly interface that allows users to input their data, view recommendations, and access additional information easily.
+
+# Technologies and Tools Used
+
+**Python:** The primary programming language used for model development, data preprocessing, and web application development.
+
+
+**Scikit-learn:** A machine learning library employed for model training, evaluation, and prediction.
+
+**Pandas:** A data manipulation library utilized for data preprocessing and analysis.
+
+**NumPy:** A library for numerical computing, essential for handling arrays and performing mathematical operations.
+
+**Flask:** A web framework used to build the user interface and manage HTTP requests.
+
+**HTML/CSS:** Markup and styling languages used for designing the web interface.
+
+
+# Future Enhancements
+
+**Real-Time Weather Data:** Integrating real-time weather data to enhance the accuracy of crop recommendations.
+
+**Market Prices and Profitability Analysis:** Incorporating crop market prices and profitability analysis to help farmers make economically viable decisions.
+
+
+**Mobile Application Development:** Creating a mobile application for convenient access and usage on smartphones and tablets.
+
+
+**User Feedback Integration:** Collecting and integrating user feedback to continuously improve the recommendation system's performance.
+
+
+# Output
+
+![home]![image](https://github.com/user-attachments/assets/cac349f3-746d-4463-8e09-549d32cbdba2)
+
+![Prediction Page]![image](https://github.com/user-attachments/assets/efe48e81-7042-448d-9d8a-9f1c4ae11acc)
+
+
+![image](https://github.com/user-attachments/assets/abf69f27-4a35-47d0-be34-bb2136fc6d94)
 
 
 
